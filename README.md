@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Perfil%20Ativo-4a90e2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Aprendizado%20Contínuo-0fa958?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/PauloArtur?label=Seguidores&style=for-the-badge&color=7d47ff" />
 </p>
 
 ---
